@@ -8,4 +8,5 @@ This repository tracks my daily progress in Python and Cybersecurity.
 - Crack placement interviews
 
 ## Progress
-Day 1: Started Python basics
+Day 1: Learned input/output in Python and created first program
+
